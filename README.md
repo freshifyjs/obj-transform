@@ -9,8 +9,8 @@
 # obj-transform
 **Библиотека для имутабельной трансформации объектов**
 
-[![npm](https://img.shields.io/npm/dm/freshjs.svg)](https://www.npmjs.com/package/@freshifyjs/obj-transform)
-[![GitHub issues](https://img.shields.io/github/issues/Tr1gEr4you/freshjs)](https://github.com/Tr1gEr4you/freshjs/issues)
+[![npm downloads](https://img.shields.io/npm/dm/@freshifyjs/obj-transform)](https://npmjs.com/package/@freshifyjs/obj-transform)
+[![GitHub issues](https://img.shields.io/github/issues/freshifyjs/readme)](https://github.com/freshifyjs/readme/issues)
 
 ## 🚀 Быстрый старт
 ```bash
