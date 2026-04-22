@@ -1,0 +1,19 @@
+{
+    "name": "@freshifyjs/obj-transform",
+    "version": "0.0.1",
+    "description": "Object transformer",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "files": [
+        "dist"
+    ],
+    "keywords": [
+        "utils",
+        "freshify"
+    ],
+    "author": "Tr1gEr",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/freshifyjs/obj-transform"
+    }
+}
