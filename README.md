@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/stars/Tr1gEr4you/freshjs?style=for-the-badge&logo=github" alt="Stars">
 </p>
 
-# FreshifyJS - obj-transform
+# FreshifyJS/obj-transform
 **Библиотека небольших пакетов и технологий**
 
 [![npm](https://img.shields.io/npm/dm/freshjs.svg)](https://www.npmjs.com/package/@freshifyjs/obj-transform)
