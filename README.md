@@ -7,7 +7,7 @@
 </p>
 
 # obj-transform
-**библиотека для управления запросами к API**
+**Библиотека для имутабельной трансформации объектов**
 
 [![npm downloads](https://img.shields.io/npm/dm/@freshifyjs/obj-transform)](https://npmjs.com/package/@freshifyjs/obj-transform)
 [![GitHub issues](https://img.shields.io/github/issues/freshifyjs/readme)](https://github.com/freshifyjs/readme/issues)
